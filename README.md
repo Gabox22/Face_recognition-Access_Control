@@ -12,6 +12,7 @@ Features
 User-friendly interface using Tkinter for file dialog interactions.
 
 Why This Project is Useful
+
 -Access Control: This system can be utilized in educational institutions or workplaces for secure access control. Only recognized individuals can gain access to restricted areas or systems, enhancing security.
 
 -Attendance Tracking: The project can automate attendance tracking by recognizing students as they enter a classroom, reducing the need for manual roll calls.
